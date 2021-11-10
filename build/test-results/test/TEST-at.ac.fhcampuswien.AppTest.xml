@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="at.ac.fhcampuswien.AppTest" tests="29" skipped="0" failures="29" errors="0" timestamp="2021-11-05T21:28:40" hostname="SCHACHTEL" time="0.141">
+<testsuite name="at.ac.fhcampuswien.AppTest" tests="29" skipped="0" failures="29" errors="0" timestamp="2021-11-10T21:35:21" hostname="SCHACHTEL" time="0.201">
   <properties/>
-  <testcase name="weekdays1()" classname="at.ac.fhcampuswien.AppTest" time="0.024">
+  <testcase name="weekdays1()" classname="at.ac.fhcampuswien.AppTest" time="0.034">
     <failure message="org.opentest4j.AssertionFailedError: Method weekdays doesn't exist" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: Method weekdays doesn't exist
 	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
 	at org.junit.jupiter.api.Assertions.fail(Assertions.java:117)
@@ -99,7 +99,7 @@
 	at java.base/java.lang.Thread.run(Thread.java:831)
 </failure>
   </testcase>
-  <testcase name="weekdays2()" classname="at.ac.fhcampuswien.AppTest" time="0.002">
+  <testcase name="weekdays2()" classname="at.ac.fhcampuswien.AppTest" time="0.001">
     <failure message="org.opentest4j.AssertionFailedError: Method weekdays doesn't exist" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: Method weekdays doesn't exist
 	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
 	at org.junit.jupiter.api.Assertions.fail(Assertions.java:117)
@@ -197,7 +197,7 @@
 	at java.base/java.lang.Thread.run(Thread.java:831)
 </failure>
   </testcase>
-  <testcase name="weekdays3()" classname="at.ac.fhcampuswien.AppTest" time="0.002">
+  <testcase name="weekdays3()" classname="at.ac.fhcampuswien.AppTest" time="0.001">
     <failure message="org.opentest4j.AssertionFailedError: Method weekdays doesn't exist" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: Method weekdays doesn't exist
 	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
 	at org.junit.jupiter.api.Assertions.fail(Assertions.java:117)
@@ -295,7 +295,7 @@
 	at java.base/java.lang.Thread.run(Thread.java:831)
 </failure>
   </testcase>
-  <testcase name="weekdays4()" classname="at.ac.fhcampuswien.AppTest" time="0.001">
+  <testcase name="weekdays4()" classname="at.ac.fhcampuswien.AppTest" time="0.0">
     <failure message="org.opentest4j.AssertionFailedError: Method weekdays doesn't exist" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: Method weekdays doesn't exist
 	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
 	at org.junit.jupiter.api.Assertions.fail(Assertions.java:117)
@@ -393,7 +393,7 @@
 	at java.base/java.lang.Thread.run(Thread.java:831)
 </failure>
   </testcase>
-  <testcase name="digitSum1()" classname="at.ac.fhcampuswien.AppTest" time="0.007">
+  <testcase name="digitSum1()" classname="at.ac.fhcampuswien.AppTest" time="0.008">
     <failure message="org.opentest4j.AssertionFailedError: Method digitSum doesn't exist" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: Method digitSum doesn't exist
 	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
 	at org.junit.jupiter.api.Assertions.fail(Assertions.java:117)
@@ -491,7 +491,7 @@
 	at java.base/java.lang.Thread.run(Thread.java:831)
 </failure>
   </testcase>
-  <testcase name="digitSum2()" classname="at.ac.fhcampuswien.AppTest" time="0.001">
+  <testcase name="digitSum2()" classname="at.ac.fhcampuswien.AppTest" time="0.002">
     <failure message="org.opentest4j.AssertionFailedError: Method digitSum doesn't exist" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: Method digitSum doesn't exist
 	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
 	at org.junit.jupiter.api.Assertions.fail(Assertions.java:117)
@@ -589,7 +589,7 @@
 	at java.base/java.lang.Thread.run(Thread.java:831)
 </failure>
   </testcase>
-  <testcase name="digitSum3()" classname="at.ac.fhcampuswien.AppTest" time="0.001">
+  <testcase name="digitSum3()" classname="at.ac.fhcampuswien.AppTest" time="0.002">
     <failure message="org.opentest4j.AssertionFailedError: Method digitSum doesn't exist" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: Method digitSum doesn't exist
 	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
 	at org.junit.jupiter.api.Assertions.fail(Assertions.java:117)
@@ -883,7 +883,7 @@
 	at java.base/java.lang.Thread.run(Thread.java:831)
 </failure>
   </testcase>
-  <testcase name="digitSum6()" classname="at.ac.fhcampuswien.AppTest" time="0.001">
+  <testcase name="digitSum6()" classname="at.ac.fhcampuswien.AppTest" time="0.002">
     <failure message="org.opentest4j.AssertionFailedError: Method digitSum doesn't exist" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: Method digitSum doesn't exist
 	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
 	at org.junit.jupiter.api.Assertions.fail(Assertions.java:117)
@@ -981,7 +981,7 @@
 	at java.base/java.lang.Thread.run(Thread.java:831)
 </failure>
   </testcase>
-  <testcase name="sumUp1()" classname="at.ac.fhcampuswien.AppTest" time="0.015">
+  <testcase name="sumUp1()" classname="at.ac.fhcampuswien.AppTest" time="0.012">
     <failure message="org.opentest4j.AssertionFailedError: expected: &lt;n1: &#13;&#10;n2: &#13;&#10;Sum: 1&#13;&#10;&gt; but was: &lt;&gt;" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: expected: &lt;n1: 
 n2: 
 Sum: 1
@@ -1085,7 +1085,7 @@ Sum: 1
 	at java.base/java.lang.Thread.run(Thread.java:831)
 </failure>
   </testcase>
-  <testcase name="sumUp2()" classname="at.ac.fhcampuswien.AppTest" time="0.002">
+  <testcase name="sumUp2()" classname="at.ac.fhcampuswien.AppTest" time="0.004">
     <failure message="org.opentest4j.AssertionFailedError: expected: &lt;n1: &#13;&#10;n2: &#13;&#10;Sum: 10&#13;&#10;&gt; but was: &lt;&gt;" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: expected: &lt;n1: 
 n2: 
 Sum: 10
@@ -1189,7 +1189,7 @@ Sum: 10
 	at java.base/java.lang.Thread.run(Thread.java:831)
 </failure>
   </testcase>
-  <testcase name="sumUp3()" classname="at.ac.fhcampuswien.AppTest" time="0.002">
+  <testcase name="sumUp3()" classname="at.ac.fhcampuswien.AppTest" time="0.001">
     <failure message="org.opentest4j.AssertionFailedError: expected: &lt;n1: &#13;&#10;n2: &#13;&#10;n2 must be &gt; n1.&#13;&#10;&gt; but was: &lt;&gt;" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: expected: &lt;n1: 
 n2: 
 n2 must be &gt; n1.
@@ -1501,7 +1501,7 @@ n1 must be &gt; 0.
 	at java.base/java.lang.Thread.run(Thread.java:831)
 </failure>
   </testcase>
-  <testcase name="sumUp6()" classname="at.ac.fhcampuswien.AppTest" time="0.003">
+  <testcase name="sumUp6()" classname="at.ac.fhcampuswien.AppTest" time="0.009">
     <failure message="org.opentest4j.AssertionFailedError: expected: &lt;n1: &#13;&#10;n2: &#13;&#10;n1 and n2 must be &gt; 0.&#13;&#10;&gt; but was: &lt;&gt;" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: expected: &lt;n1: 
 n2: 
 n1 and n2 must be &gt; 0.
@@ -1605,7 +1605,7 @@ n1 and n2 must be &gt; 0.
 	at java.base/java.lang.Thread.run(Thread.java:831)
 </failure>
   </testcase>
-  <testcase name="sumUp7()" classname="at.ac.fhcampuswien.AppTest" time="0.002">
+  <testcase name="sumUp7()" classname="at.ac.fhcampuswien.AppTest" time="0.003">
     <failure message="org.opentest4j.AssertionFailedError: expected: &lt;n1: &#13;&#10;n2: &#13;&#10;Sum: 45&#13;&#10;&gt; but was: &lt;&gt;" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: expected: &lt;n1: 
 n2: 
 Sum: 45
@@ -1709,7 +1709,7 @@ Sum: 45
 	at java.base/java.lang.Thread.run(Thread.java:831)
 </failure>
   </testcase>
-  <testcase name="compareNumbers1()" classname="at.ac.fhcampuswien.AppTest" time="0.001">
+  <testcase name="compareNumbers1()" classname="at.ac.fhcampuswien.AppTest" time="0.002">
     <failure message="org.opentest4j.AssertionFailedError: Method compareNumbers doesn't exist" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: Method compareNumbers doesn't exist
 	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
 	at org.junit.jupiter.api.Assertions.fail(Assertions.java:117)
@@ -1905,7 +1905,7 @@ Sum: 45
 	at java.base/java.lang.Thread.run(Thread.java:831)
 </failure>
   </testcase>
-  <testcase name="compareNumbers3()" classname="at.ac.fhcampuswien.AppTest" time="0.001">
+  <testcase name="compareNumbers3()" classname="at.ac.fhcampuswien.AppTest" time="0.003">
     <failure message="org.opentest4j.AssertionFailedError: Method compareNumbers doesn't exist" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: Method compareNumbers doesn't exist
 	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
 	at org.junit.jupiter.api.Assertions.fail(Assertions.java:117)
@@ -2003,7 +2003,7 @@ Sum: 45
 	at java.base/java.lang.Thread.run(Thread.java:831)
 </failure>
   </testcase>
-  <testcase name="compareNumbers4()" classname="at.ac.fhcampuswien.AppTest" time="0.001">
+  <testcase name="compareNumbers4()" classname="at.ac.fhcampuswien.AppTest" time="0.002">
     <failure message="org.opentest4j.AssertionFailedError: Method compareNumbers doesn't exist" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: Method compareNumbers doesn't exist
 	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
 	at org.junit.jupiter.api.Assertions.fail(Assertions.java:117)
@@ -2101,7 +2101,7 @@ Sum: 45
 	at java.base/java.lang.Thread.run(Thread.java:831)
 </failure>
   </testcase>
-  <testcase name="incomeStatistics1()" classname="at.ac.fhcampuswien.AppTest" time="0.012">
+  <testcase name="incomeStatistics1()" classname="at.ac.fhcampuswien.AppTest" time="0.024">
     <failure message="org.opentest4j.AssertionFailedError: Method incomeStatistics doesn't exist" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: Method incomeStatistics doesn't exist
 	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
 	at org.junit.jupiter.api.Assertions.fail(Assertions.java:117)
@@ -2199,7 +2199,7 @@ Sum: 45
 	at java.base/java.lang.Thread.run(Thread.java:831)
 </failure>
   </testcase>
-  <testcase name="incomeStatistics2()" classname="at.ac.fhcampuswien.AppTest" time="0.011">
+  <testcase name="incomeStatistics2()" classname="at.ac.fhcampuswien.AppTest" time="0.017">
     <failure message="org.opentest4j.AssertionFailedError: Method incomeStatistics doesn't exist" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: Method incomeStatistics doesn't exist
 	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
 	at org.junit.jupiter.api.Assertions.fail(Assertions.java:117)
@@ -2297,7 +2297,7 @@ Sum: 45
 	at java.base/java.lang.Thread.run(Thread.java:831)
 </failure>
   </testcase>
-  <testcase name="incomeStatistics3()" classname="at.ac.fhcampuswien.AppTest" time="0.008">
+  <testcase name="incomeStatistics3()" classname="at.ac.fhcampuswien.AppTest" time="0.014">
     <failure message="org.opentest4j.AssertionFailedError: Method incomeStatistics doesn't exist" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: Method incomeStatistics doesn't exist
 	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
 	at org.junit.jupiter.api.Assertions.fail(Assertions.java:117)
@@ -2395,7 +2395,7 @@ Sum: 45
 	at java.base/java.lang.Thread.run(Thread.java:831)
 </failure>
   </testcase>
-  <testcase name="incomeStatistics4()" classname="at.ac.fhcampuswien.AppTest" time="0.001">
+  <testcase name="incomeStatistics4()" classname="at.ac.fhcampuswien.AppTest" time="0.004">
     <failure message="org.opentest4j.AssertionFailedError: Method incomeStatistics doesn't exist" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: Method incomeStatistics doesn't exist
 	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
 	at org.junit.jupiter.api.Assertions.fail(Assertions.java:117)
@@ -2493,7 +2493,7 @@ Sum: 45
 	at java.base/java.lang.Thread.run(Thread.java:831)
 </failure>
   </testcase>
-  <testcase name="incomeStatistics5()" classname="at.ac.fhcampuswien.AppTest" time="0.006">
+  <testcase name="incomeStatistics5()" classname="at.ac.fhcampuswien.AppTest" time="0.011">
     <failure message="org.opentest4j.AssertionFailedError: Method incomeStatistics doesn't exist" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: Method incomeStatistics doesn't exist
 	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
 	at org.junit.jupiter.api.Assertions.fail(Assertions.java:117)
@@ -2787,7 +2787,7 @@ Sum: 45
 	at java.base/java.lang.Thread.run(Thread.java:831)
 </failure>
   </testcase>
-  <testcase name="printTriangle3()" classname="at.ac.fhcampuswien.AppTest" time="0.001">
+  <testcase name="printTriangle3()" classname="at.ac.fhcampuswien.AppTest" time="0.002">
     <failure message="org.opentest4j.AssertionFailedError: Method printTriangle doesn't exist" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: Method printTriangle doesn't exist
 	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
 	at org.junit.jupiter.api.Assertions.fail(Assertions.java:117)

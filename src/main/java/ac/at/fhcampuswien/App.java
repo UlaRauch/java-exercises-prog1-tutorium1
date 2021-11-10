@@ -1,7 +1,5 @@
 package ac.at.fhcampuswien;
 
-import java.util.Locale;
-import java.util.Scanner;
 
 public class App {
 
@@ -14,7 +12,8 @@ public class App {
      * Wenn beide Zahlen > 0 sind, aber n2 < n1 ist, soll auch eine Fehlermeldung ausgegeben werden.
      */
 
-    public static void sumUp(){
+    public static void sumUp() {
+
     }
 
 
@@ -79,9 +78,10 @@ public class App {
     //implement here
 
     public static void main(String[] args) {
-        //hier methoden aufrufen zum testen!
-        //
-        // System.out.println(weekdays(6));
-        //
+        //hier methoden aufrufen zum ausprobieren!
+        //...
+        //... jetzt
+        // ... ja hier!
+        // ... einfach ausprobieren!
     }
 }
