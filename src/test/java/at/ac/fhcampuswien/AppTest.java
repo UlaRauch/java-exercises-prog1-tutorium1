@@ -8,6 +8,17 @@ import java.lang.reflect.Method;
 
 import static org.junit.jupiter.api.Assertions.*;
 
+
+/**
+ *
+ * BEGIN
+ * All exercises and tests from CSDC23 WiSe2020/21 Midterm-Exam FH Campus Wien
+ * AUTHORS: Michael Strommer & Leon Freudentaler
+ * All Tests adapted for non-existent methods by Ursula Rauch, 11-2021
+ * (code for adaption taken from class exercises CSDC23/24)
+ *
+ **/
+
 @Timeout(2)
 public class AppTest {
 
@@ -656,3 +667,8 @@ public class AppTest {
     }
 
 }
+/**
+ *
+ * END
+ *
+ */

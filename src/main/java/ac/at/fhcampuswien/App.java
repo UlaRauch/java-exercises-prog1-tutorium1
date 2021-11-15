@@ -1,7 +1,20 @@
 package ac.at.fhcampuswien;
 
 
+/**
+ *
+ * BEGIN
+ * All exercises and tests from CSDC23 WiSe2020/21 Midterm-Exam FH Campus Wien
+ * AUTHORS: Michael Strommer & Leon Freudentaler
+ * All Tests adapted for non-existent methods by Ursula Rauch, 11-2021
+ * (code for adaption taken from class exercises CSDC23/24)
+ *
+ **/
 public class App {
+
+    /*
+    Alle Aufgaben von CSDC23 WiSe2020/21 Midterm-Exam
+     */
 
     /**
      * Übung 1 (A)
@@ -75,7 +88,10 @@ public class App {
      * Die Methode hat keinen Rückgabewert.
      */
 
-    //implement here
+    /**
+     *
+     * END
+     */
 
     public static void main(String[] args) {
         //hier methoden aufrufen zum ausprobieren!
@@ -83,5 +99,6 @@ public class App {
         //... jetzt
         // ... ja hier!
         // ... einfach ausprobieren!
+
     }
 }
